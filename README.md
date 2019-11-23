@@ -1,4 +1,4 @@
-# visa-cards
+# Code Challenge
 
 ## Project setup
 ```
